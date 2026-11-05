@@ -1,1 +1,1 @@
-# so-tay-hoc-tap
+Học cách sử dụng git
